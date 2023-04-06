@@ -1,0 +1,27 @@
+/* internal librairies */
+@import "banner.css";
+@import "buttons.css";
+@import "cards.css";
+@import "footer.css";
+
+/* external librairies (bootstrap, tailwind) */
+
+
+/* fonts and colors */
+
+
+/* general website style */
+
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 85%;
+  margin: 24px auto;
+}
